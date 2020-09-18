@@ -22,3 +22,5 @@ https://nlamonaco86.github.io/powerBall/
 Compare any value in each array, rather than only identical indexes, to allow for more partial wins.
 
 Total prize jackpot for this powerBall is currently $0.00.
+
+![powerball](./screenshot.png) 

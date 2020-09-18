@@ -1,5 +1,4 @@
 const playGame = () => {
-
     // Create the random numbers for the powerball
     let compNum = []
     for (let i = 1; i < 9; i++){
@@ -30,4 +29,4 @@ const playGame = () => {
         }
     }
 }
-playGame();
+

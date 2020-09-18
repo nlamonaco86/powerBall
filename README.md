@@ -6,6 +6,8 @@ Lottery App Refactor
 ## User Story
 Refactoring a lottery app to use loops instead of repetitive lines of code. 
 
+Link to original:
+
 https://medium.com/@ArtistJHooper/javascript-how-to-create-a-powerball-simulator-18fa0224ee14
 
 ## DEPLOYED SITE:

@@ -1,4 +1,6 @@
 # powerBall
+9/18/2020
+Nicholas La Monaco
 Lottery App Refactor
 
 ## User Story

@@ -1,8 +1,5 @@
-/*jslint devel: true*/
-/*eslint-env browser*/
 const playGame = () => {
-    "use strict";
-    
+
     // Create the random numbers for the powerball
     let compNum = []
     for (let i = 1; i < 9; i++){

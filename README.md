@@ -17,10 +17,6 @@ https://medium.com/@ArtistJHooper/javascript-how-to-create-a-powerball-simulator
 
 https://nlamonaco86.github.io/powerBall/
 
-## FUTURE DEVELOPMENT
-
-Compare any value in each array, rather than only identical indexes, to allow for more partial wins.
-
 Total prize jackpot for this powerBall is currently $0.00.
 
 ![powerball](./screenshot.png) 
